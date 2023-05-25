@@ -10,7 +10,7 @@ MJ Bot의 접두사는 ``/``로, 채팅창에 입력 시 슬래시 커멘드가 
 - 개발 언어: node.js
 - 버전: 1.0
 
-**[![봇 초대하기](https://img.shields.io/badge/%EB%B4%87%20%EC%B4%88%EB%8C%80%ED%95%98%EA%B8%B0-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/api/oauth2/authorize?client_id=703956235900420226&permissions=126016&scope=bot](https://discord.com/api/oauth2/authorize?client_id=931341870439731270&permissions=8&scope=bot))**
+**[![봇 초대하기](https://img.shields.io/badge/%EB%B4%87%20%EC%B4%88%EB%8C%80%ED%95%98%EA%B8%B0-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=931341870439731270&permissions=8&scope=bot)**
 
 
 # Ver 1.0 기능
